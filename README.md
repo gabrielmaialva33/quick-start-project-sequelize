@@ -1,4 +1,7 @@
 # quick-start-project-sequelize
 
+Quick Start project configured with sequelize, express pg.
 
-Quick Start project configured with sequelize.
+- node
+- npm or yarn
+
