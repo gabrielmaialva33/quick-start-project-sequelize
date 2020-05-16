@@ -2,12 +2,18 @@
 
 Quick Start project configured with sequelize, express and pg.
 
-### requirements
+###   requirements
+
  - node.js
  - npm or yarn
-### starting
+ - 
+###   starting
 
-clone this project with git and run yarn or npm to install dependencies
+clone this project with git and run `yarn` or `npm` to install dependencies
 
 
 > remember to update your package.json weekly
+
+
+ 
+ 
